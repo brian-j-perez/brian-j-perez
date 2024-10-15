@@ -1,6 +1,14 @@
-## Hi there 👋
+## Hi there 👋 My name is Brian Perez, but you can call me Brin!
+
+I’m passionate about Machine Learning and AI, building solutions that solve real-world problems. My focus is on Healthcare, NLP, CV, and ethical AI.
+
+- 🔭 I’m currently working on building a rudimentary ASL detection system
+- 🌱 I’m currently expanding my knowledge on Java to support my web development learning
+- 🔧 Tech Stack: Python, TensorFlow, PyTorch, C, C++, SQL, & more
+- 😄 Pronouns: He/Him
 
 <!--
+
 **brian-j-perez/brian-j-perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
